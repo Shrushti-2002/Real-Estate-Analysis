@@ -78,11 +78,7 @@ Created price segmentation column:
 
 📊 Key Performance Indicators (KPIs)
 
-KPI	                          Value
-Total Properties	           20,000
-Average Price	           $1,029,219
-Avg Price per SqFt	           $563
-Average Property Size	  2,691 sq ft
+KPI	Value = Total Properties 20,000,  Average Price $1,029,219, Avg Price per SqFt $563, Average Property Size 2,691 sq ft
 
 📌 Key Insights
 
